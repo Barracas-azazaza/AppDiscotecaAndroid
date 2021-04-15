@@ -20,5 +20,9 @@
         android:name="com.example.finalapps.ItemFragment"
         android:label="fragment_item_list"
         tools:layout="@layout/fragment_item_list" />
+    <activity
+        android:id="@+id/mainActivityMusica"
+        android:name="com.example.finalapps.MainActivityMusica"
+        android:label="MainActivityMusica" />
 
 </navigation>

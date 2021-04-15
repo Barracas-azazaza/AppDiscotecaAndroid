@@ -16,4 +16,9 @@
         android:icon="@android:drawable/btn_star_big_on"
         android:title="@string/title_notifications" />
 
+    <item
+        android:id="@+id/mainActivityMusica"
+        android:icon="@drawable/musica"
+        android:title="@string/title_notifications" />
+
 </menu>
